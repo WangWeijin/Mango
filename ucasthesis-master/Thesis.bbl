@@ -1,0 +1,907 @@
+\begin{thebibliography}{133}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+
+\bibitem[陈浩元(2005)]{chen2005zhulu}
+陈浩元. 2005.
+\newblock 著录文后参考文献的规则及注意事项\allowbreak[J].
+\newblock 编辑学报, 17\penalty0 (6): 413-415.
+
+\bibitem[陈晋镳\ 等(1980)陈晋镳, 张惠民, 朱士兴, 赵震, and
+  王振刚]{chen1980zhongguo}
+陈晋镳, 张惠民, 朱士兴, 等. 1980.
+\newblock
+  蓟县震旦亚界研究\allowbreak[M]//\allowbreak{}中国地质科学院天津地质矿产研究所.
+\newblock 中国震旦亚界.
+\newblock 天津: 天津科学技术出版社: 56-114.
+
+\bibitem[初景利(2004)]{chu2004tushu}
+初景利. 2004.
+\newblock 图书馆数字参考咨询服务研究\allowbreak[M].
+\newblock 北京: 北京图书馆出版社.
+
+\bibitem[哈里森·沃尔德伦(2012)]{hls2012jinji}
+哈里森·沃尔德伦. 2012.
+\newblock 经济数学与金融数学\allowbreak[M].
+\newblock 谢远涛, 译.
+\newblock 北京: 中国人民大学出版社: 235-236.
+
+\bibitem[牛志明\ 等(2013)牛志明, 斯温兰德, and
+  雷光春]{niu2013zonghe}
+牛志明, 斯温兰德, 雷光春. 2013.
+\newblock 综合湿地管理国际研讨会论文集\allowbreak[C].
+\newblock 北京: 海洋出版社.
+
+\bibitem[袁训来\ 等(2012{\natexlab{a}})袁训来, 陈哲, and
+  肖书海]{yuan2012lana}
+袁训来, 陈哲, 肖书海. 2012{\natexlab{a}}.
+\newblock 蓝田生物群:
+  一个认识多细胞生物起源和早期演化的新窗口 --
+  篇一\allowbreak[J].
+\newblock 科学通报, 57\penalty0 (34): 3219.
+
+\bibitem[袁训来\ 等(2012{\natexlab{b}})袁训来, 陈哲, and
+  肖书海]{yuan2012lanb}
+袁训来, 陈哲, 肖书海. 2012{\natexlab{b}}.
+\newblock 蓝田生物群:
+  一个认识多细胞生物起源和早期演化的新窗口 --
+  篇二\allowbreak[J].
+\newblock 科学通报, 57\penalty0 (34): 3219.
+
+\bibitem[袁训来\ 等(2012{\natexlab{c}})袁训来, 陈哲, and
+  肖书海]{yuan2012lanc}
+袁训来, 陈哲, 肖书海. 2012{\natexlab{c}}.
+\newblock 蓝田生物群:
+  一个认识多细胞生物起源和早期演化的新窗口 --
+  篇三\allowbreak[J].
+\newblock 科学通报, 57\penalty0 (34): 3219.
+
+\bibitem[邵健雄(2016)]{邵健雄2016下一代可信计算协议的设计与分析}
+邵健雄. 2016.
+\newblock 下一代可信计算协议的设计与分析\allowbreak[D].
+\newblock 中国科学院大学.
+
+\bibitem[ボハンデ(1928)]{Bohan1928}
+ボハンデ. 1928.
+\newblock 過去及び現在に於ける英国と会\allowbreak[J].
+\newblock 日本時報, 17: 5-9.
+
+\bibitem[Abadi(1999)]{abadi1999secrecy}
+ABADI M. 1999.
+\newblock Secrecy by typing in security protocols\allowbreak[J].
+\newblock Journal of the ACM (JACM), 46\penalty0 (5): 749-786.
+
+\bibitem[Abadi\ et~al.(2002)Abadi and Blanchet]{abadi2002analyzing}
+ABADI M, BLANCHET B. 2002.
+\newblock Analyzing security protocols with secrecy types and logic
+  programs\allowbreak[J].
+\newblock ACM SIGPLAN Notices, 37\penalty0 (1): 33-44.
+
+\bibitem[Abadi\ et~al.(2005)Abadi and Blanchet]{abadi2005analyzing}
+ABADI M, BLANCHET B. 2005.
+\newblock Analyzing security protocols with secrecy types and logic
+  programs\allowbreak[J].
+\newblock Journal of the ACM (JACM), 52\penalty0 (1): 102-146.
+
+\bibitem[Abadi\ et~al.(2001)Abadi and Fournet]{abadi2001mobile}
+ABADI M, FOURNET C. 2001.
+\newblock Mobile values, new names, and secure
+  communication\allowbreak[C]//\allowbreak{}ACM Sigplan Notices: volume~36.
+\newblock ACM: 104-115.
+
+\bibitem[Abadi\ et~al.(1997)Abadi and Gordon]{abadi1997calculus}
+ABADI M, GORDON A~D. 1997.
+\newblock A calculus for cryptographic protocols: The spi
+  calculus\allowbreak[C]//\allowbreak{}Proceedings of the 4th ACM conference on
+  Computer and communications security.
+\newblock ACM: 36-47.
+
+\bibitem[Abadi\ et~al.(2000)Abadi and Rogaway]{abadi2000reconciling}
+ABADI M, ROGAWAY P. 2000.
+\newblock Reconciling two views of
+  cryptography\allowbreak[C]//\allowbreak{}Proceedings of the IFIP
+  International Conference on Theoretical Computer Science.
+\newblock Springer: 3-22.
+
+\bibitem[Abadi\ et~al.(2017)Abadi, Blanchet, and Fournet]{abadi2017applied}
+ABADI M, BLANCHET B, FOURNET C. 2017.
+\newblock The applied pi calculus: mobile values, new names, and secure
+  communication\allowbreak[J].
+\newblock Journal of the ACM (JACM), 65\penalty0 (1): 1.
+
+\bibitem[Adida(2008)]{adida2008helios}
+ADIDA B. 2008.
+\newblock Helios: Web-based open-audit
+  voting.\allowbreak[C]//\allowbreak{}USENIX security symposium: volume~17.
+\newblock 335-348.
+
+\bibitem[Arapinis\ et~al.(2011)Arapinis, Ritter, and
+  Ryan]{arapinis2011statverif}
+ARAPINIS M, RITTER E, RYAN M~D. 2011.
+\newblock Statverif: Verification of stateful
+  processes\allowbreak[C]//\allowbreak{}2011 24th Computer Security Foundations
+  Symposium.
+\newblock IEEE: 33-47.
+
+\bibitem[Arapinis\ et~al.(2014)Arapinis, Liu, Ritter, and
+  Ryan]{arapinis2014stateful}
+ARAPINIS M, LIU J, RITTER E, et~al. 2014.
+\newblock Stateful applied pi
+  calculus\allowbreak[C]//\allowbreak{}International Conference on Principles
+  of Security and Trust.
+\newblock Springer: 22-41.
+
+\bibitem[Au\ et~al.(2012{\natexlab{a}})Au and Kapadia]{au2012perm}
+AU M~H, KAPADIA A. 2012{\natexlab{a}}.
+\newblock Perm: Practical reputation-based blacklisting without
+  ttps\allowbreak[C]//\allowbreak{}Proceedings of the 2012 ACM conference on
+  Computer and communications security.
+\newblock ACM: 929-940.
+
+\bibitem[Au\ et~al.(2012{\natexlab{b}})Au, Kapadia, and Susilo]{au2012blacr}
+AU M~H, KAPADIA A, SUSILO W. 2012{\natexlab{b}}.
+\newblock Blacr: Ttp-free blacklistable anonymous credentials with
+  reputation\allowbreak[Z].
+
+\bibitem[Backes\ et~al.(2003)Backes, Pfitzmann, and
+  Waidner]{backes2003composable}
+BACKES M, PFITZMANN B, WAIDNER M. 2003.
+\newblock A composable cryptographic library with nested
+  operations\allowbreak[C]//\allowbreak{}Proceedings of the 10th ACM conference
+  on Computer and communications security.
+\newblock ACM: 220-230.
+
+\bibitem[Backes\ et~al.(2008)Backes, Maffei, and Unruh]{backes2008zero}
+BACKES M, MAFFEI M, UNRUH D. 2008.
+\newblock Zero-knowledge in the applied pi-calculus and automated verification
+  of the direct anonymous attestation
+  protocol\allowbreak[C]//\allowbreak{}Security and Privacy, 2008. SP 2008.
+  IEEE Symposium on.
+\newblock IEEE: 202-215.
+
+\bibitem[Backes\ et~al.(2009)Backes, Hofheinz, and Unruh]{backes2009cosp}
+BACKES M, HOFHEINZ D, UNRUH D. 2009.
+\newblock Cosp: A general framework for computational soundness
+  proofs\allowbreak[C]//\allowbreak{}Proceedings of the 16th ACM conference on
+  Computer and communications security.
+\newblock ACM: 66-78.
+
+\bibitem[Backes\ et~al.(2010)Backes, Maffei, and
+  Unruh]{backes2010computationally}
+BACKES M, MAFFEI M, UNRUH D. 2010.
+\newblock Computationally sound verification of source
+  code\allowbreak[C]//\allowbreak{}Proceedings of the 17th ACM conference on
+  Computer and communications security.
+\newblock ACM: 387-398.
+
+\bibitem[Backes\ et~al.(2014)Backes, Mohammadi, and
+  Ruffing]{backes2014computational}
+BACKES M, MOHAMMADI E, RUFFING T. 2014.
+\newblock Computational soundness results for
+  proverif\allowbreak[C]//\allowbreak{}International Conference on Principles
+  of Security and Trust.
+\newblock Springer: 42-62.
+
+\bibitem[Baldimtsi\ et~al.(2013{\natexlab{a}})Baldimtsi and
+  Lysyanskaya]{baldimtsi2013anonymous}
+BALDIMTSI F, LYSYANSKAYA A. 2013{\natexlab{a}}.
+\newblock Anonymous credentials light\allowbreak[C]//\allowbreak{}Proceedings
+  of the 2013 ACM SIGSAC conference on Computer \& communications security.
+\newblock ACM: 1087-1098.
+
+\bibitem[Baldimtsi\ et~al.(2013{\natexlab{b}})Baldimtsi and
+  Lysyanskaya]{baldimtsi2013security}
+BALDIMTSI F, LYSYANSKAYA A. 2013{\natexlab{b}}.
+\newblock On the security of one-witness blind signature
+  schemes\allowbreak[C]//\allowbreak{}International Conference on the Theory
+  and Application of Cryptology and Information Security.
+\newblock Springer: 82-99.
+
+\bibitem[Barthe\ et~al.(2009)Barthe, Gr{\'e}goire, and
+  Zanella~B{\'e}guelin]{barthe2009formal}
+BARTHE G, GR{\'E}GOIRE B, ZANELLA~B{\'E}GUELIN S. 2009.
+\newblock Formal certification of code-based cryptographic
+  proofs\allowbreak[J].
+\newblock ACM SIGPLAN Notices, 44\penalty0 (1): 90-101.
+
+\bibitem[Barthe\ et~al.(2011)Barthe, Gr{\'e}goire, Heraud, and
+  B{\'e}guelin]{barthe2011computer}
+BARTHE G, GR{\'E}GOIRE B, HERAUD S, et~al. 2011.
+\newblock Computer-aided security proofs for the working
+  cryptographer\allowbreak[C]//\allowbreak{}Annual Cryptology Conference.
+\newblock Springer: 71-90.
+
+\bibitem[Bellare\ et~al.(2006)Bellare and Rogaway]{bellare2006security}
+BELLARE M, ROGAWAY P. 2006.
+\newblock The security of triple encryption and a framework for code-based
+  game-playing proofs\allowbreak[C]//\allowbreak{}Annual International
+  Conference on the Theory and Applications of Cryptographic Techniques.
+\newblock Springer: 409-426.
+
+\bibitem[Bhargavan\ et~al.(2017)Bhargavan, Blanchet, and
+  Kobeissi]{bhargavan2017verified}
+BHARGAVAN K, BLANCHET B, KOBEISSI N. 2017.
+\newblock Verified models and reference implementations for the tls 1.3
+  standard candidate\allowbreak[C]//\allowbreak{}Security and Privacy (SP),
+  2017 IEEE Symposium on.
+\newblock IEEE: 483-502.
+
+\bibitem[Blanchet(2006)]{blanchet2006computationally}
+BLANCHET B. 2006.
+\newblock A computationally sound mechanized prover for security
+  protocols\allowbreak[C]//\allowbreak{}Security and Privacy, 2006 IEEE
+  Symposium on.
+\newblock IEEE: 15-pp.
+
+\bibitem[Blanchet(2001)]{blanchet2001efficient}
+BLANCHET B. 2001.
+\newblock An efficient cryptographic protocol verifier based on prolog
+  rules\allowbreak[C]//\allowbreak{}csfw.
+\newblock IEEE: 0082.
+
+\bibitem[Blanchet(2002)]{blanchet2002secrecy}
+BLANCHET B. 2002.
+\newblock From secrecy to authenticity in security
+  protocols\allowbreak[C]//\allowbreak{}International Static Analysis
+  Symposium.
+\newblock Springer: 342-359.
+
+\bibitem[Blanchet(2004)]{blanchet2004automatic}
+BLANCHET B. 2004.
+\newblock Automatic proof of strong secrecy for security
+  protocols\allowbreak[M].
+\newblock IEEE.
+
+\bibitem[Blanchet(2007)]{blanchet2007computationally}
+BLANCHET B. 2007.
+\newblock Computationally sound mechanized proofs of correspondence
+  assertions\allowbreak[C]//\allowbreak{}Computer Security Foundations
+  Symposium, 2007. CSF'07. 20th IEEE.
+\newblock IEEE: 97-111.
+
+\bibitem[Blanchet(2008)]{blanchet2008computationally}
+BLANCHET B. 2008.
+\newblock A computationally sound mechanized prover for security
+  protocols\allowbreak[J].
+\newblock IEEE Transactions on Dependable and Secure Computing, 5\penalty0 (4):
+  193-207.
+
+\bibitem[Blanchet(2009)]{blanchet2009automatic}
+BLANCHET B. 2009.
+\newblock Automatic verification of correspondences for security
+  protocols\allowbreak[J].
+\newblock Journal of Computer Security, 17\penalty0 (4): 363-434.
+
+\bibitem[Blanchet(2017)]{blanchet2017symbolic}
+BLANCHET B. 2017.
+\newblock Symbolic and computational mechanized verification of the arinc823
+  avionic protocols\allowbreak[C]//\allowbreak{}Computer Security Foundations
+  Symposium (CSF), 2017 IEEE 30th.
+\newblock IEEE: 68-82.
+
+\bibitem[Blanchet(2018)]{BlanchetCSF18}
+BLANCHET B. 2018.
+\newblock Composition theorems for {C}rypto{V}erif and application to {TLS}
+  1.3\allowbreak[C]//\allowbreak{}Computer Security Foundations Symposium
+  (CSF), 2017 IEEE 31th.
+\newblock Oxford, UK: IEEE Computer Society.
+
+\bibitem[Blanchet\ et~al.(2008{\natexlab{a}})Blanchet and
+  Chaudhuri]{blanchet2008automated}
+BLANCHET B, CHAUDHURI A. 2008{\natexlab{a}}.
+\newblock Automated formal analysis of a protocol for secure file sharing on
+  untrusted storage\allowbreak[C]//\allowbreak{}Security and Privacy, 2008. SP
+  2008. IEEE Symposium on.
+\newblock IEEE: 417-431.
+
+\bibitem[Blanchet\ et~al.(2016)Blanchet and Smyth]{blanchet2016automated}
+BLANCHET B, SMYTH B. 2016.
+\newblock Automated reasoning for equivalences in the applied pi calculus with
+  barriers\allowbreak[C]//\allowbreak{}Computer Security Foundations Symposium
+  (CSF), 2016 IEEE 29th.
+\newblock IEEE: 310-324.
+
+\bibitem[Blanchet\ et~al.(2005)Blanchet, Abadi, and
+  Fournet]{blanchet2005automated}
+BLANCHET B, ABADI M, FOURNET C. 2005.
+\newblock Automated verification of selected equivalences for security
+  protocols\allowbreak[C]//\allowbreak{}Logic in Computer Science, 2005. LICS
+  2005. Proceedings. 20th Annual IEEE Symposium on.
+\newblock IEEE: 331-340.
+
+\bibitem[Blanchet\ et~al.(2008{\natexlab{b}})Blanchet, Jaggard, Scedrov, and
+  Tsay]{BlanchetJaggardScedrovTsayAsiaCCS08}
+BLANCHET B, JAGGARD A~D, SCEDROV A, et~al. 2008{\natexlab{b}}.
+\newblock Computationally sound mechanized proofs for basic and public-key
+  kerberos\allowbreak[C]//\allowbreak{}Proceedings of the 2008 ACM symposium on
+  Information, computer and communications security.
+\newblock ACM: 87-99.
+
+\bibitem[Brands(2000)]{brands2000rethinking}
+BRANDS S. 2000.
+\newblock Rethinking public key infrastructures and digital certificates:
+  building in privacy\allowbreak[M].
+\newblock Mit Press.
+
+\bibitem[Brickell\ et~al.(2007)Brickell and Li]{brickell2007enhanced}
+BRICKELL E, LI J. 2007.
+\newblock Enhanced privacy id: A direct anonymous attestation scheme with
+  enhanced revocation capabilities\allowbreak[C]//\allowbreak{}Proceedings of
+  the 2007 ACM workshop on Privacy in electronic society.
+\newblock ACM: 21-30.
+
+\bibitem[Brickell\ et~al.(2010)Brickell and Li]{brickell2010pairing}
+BRICKELL E, LI J. 2010.
+\newblock A pairing-based daa scheme further reducing tpm
+  resources\allowbreak[C]//\allowbreak{}International Conference on Trust and
+  Trustworthy Computing.
+\newblock Springer: 181-195.
+
+\bibitem[Brickell\ et~al.(2004)Brickell, Camenisch, and
+  Chen]{brickell2004direct}
+BRICKELL E, CAMENISCH J, CHEN L. 2004.
+\newblock Direct anonymous attestation\allowbreak[C]//\allowbreak{}Proceedings
+  of the 11th ACM conference on Computer and communications security.
+\newblock ACM: 132-145.
+
+\bibitem[Brickell\ et~al.(2008)Brickell, Chen, and Li]{brickell2008new}
+BRICKELL E, CHEN L, LI J. 2008.
+\newblock A new direct anonymous attestation scheme from bilinear
+  maps\allowbreak[C]//\allowbreak{}International Conference on Trusted
+  Computing.
+\newblock Springer: 166-178.
+
+\bibitem[Brickell\ et~al.(2009)Brickell, Chen, and Li]{brickell2009simplified}
+BRICKELL E, CHEN L, LI J. 2009.
+\newblock Simplified security notions of direct anonymous attestation and a
+  concrete scheme from pairings\allowbreak[J].
+\newblock International journal of information security, 8\penalty0 (5):
+  315-330.
+
+\bibitem[Brickell\ et~al.(2012)Brickell, Chen, and Li]{Brickell2012A}
+BRICKELL E, CHEN L, LI J. 2012.
+\newblock A static diffie-hellman attack on several direct anonymous
+  attestation schemes\allowbreak[C]//\allowbreak{}International Conference on
+  Trusted Systems.
+\newblock 95-111.
+
+\bibitem[Bruschi\ et~al.(2005)Bruschi, Cavallaro, Lanzi, and
+  Monga]{bruschi2005replay}
+BRUSCHI D, CAVALLARO L, LANZI A, et~al. 2005.
+\newblock Replay attack in tcg specification and
+  solution\allowbreak[C]//\allowbreak{}Computer Security Applications
+  Conference, 21st Annual.
+\newblock IEEE: 11-pp.
+
+\bibitem[Burrows\ et~al.(1989)Burrows, Abadi, and Needham]{burrows1989logic}
+BURROWS M, ABADI M, NEEDHAM R~M. 1989.
+\newblock A logic of authentication\allowbreak[J].
+\newblock Proc. R. Soc. Lond. A, 426\penalty0 (1871): 233-271.
+
+\bibitem[Cachin\ et~al.(2009)Cachin and Chandran]{Cachin2009A}
+CACHIN C, CHANDRAN N. 2009.
+\newblock A secure cryptographic token
+  interface\allowbreak[C]//\allowbreak{}IEEE Computer Security Foundations
+  Symposium.
+\newblock 141-153.
+
+\bibitem[Cad{\'e}\ et~al.(2013)Cad{\'e} and Blanchet]{cade2013computationally}
+CAD{\'E} D, BLANCHET B. 2013.
+\newblock From computationally-proved protocol specifications to
+  implementations and application to ssh\allowbreak[J].
+\newblock JoWUA, 4\penalty0 (1): 4-31.
+
+\bibitem[Camenisch\ et~al.(2001)Camenisch and
+  Lysyanskaya]{camenisch2001efficient}
+CAMENISCH J, LYSYANSKAYA A. 2001.
+\newblock An efficient system for non-transferable anonymous credentials with
+  optional anonymity revocation\allowbreak[C]//\allowbreak{}International
+  Conference on the Theory and Applications of Cryptographic Techniques.
+\newblock Springer: 93-118.
+
+\bibitem[Camenisch\ et~al.(2002)Camenisch and
+  Lysyanskaya]{camenisch2002signature}
+CAMENISCH J, LYSYANSKAYA A. 2002.
+\newblock A signature scheme with efficient
+  protocols\allowbreak[M]//\allowbreak{}Security in communication networks.
+\newblock Springer: 268-289.
+
+\bibitem[Camenisch\ et~al.(2004)Camenisch and
+  Lysyanskaya]{camenisch2004signature}
+CAMENISCH J, LYSYANSKAYA A. 2004.
+\newblock Signature schemes and anonymous credentials from bilinear
+  maps\allowbreak[C]//\allowbreak{}Annual International Cryptology Conference.
+\newblock Springer: 56-72.
+
+\bibitem[Camenisch\ et~al.(2016)Camenisch, Drijvers, and
+  Lehmann]{Camenisch2016Universally}
+CAMENISCH J, DRIJVERS M, LEHMANN A. 2016.
+\newblock Universally composable direct anonymous
+  attestation\allowbreak[C]//\allowbreak{}Proceedings, Part II, of the 19th
+  IACR International Conference on Public-Key Cryptography --- PKC 2016 -
+  Volume 9615.
+\newblock 234-264.
+
+\bibitem[Camenisch\ et~al.(2010)Camenisch et~al.]{camenisch2010specification}
+CAMENISCH J, et~al. 2010.
+\newblock Specification of the identity mixer cryptographic
+  library\allowbreak[R].
+\newblock Tech. rep.
+
+\bibitem[Canetti\ et~al.(2006)Canetti and Herzog]{canetti2006universally}
+CANETTI R, HERZOG J. 2006.
+\newblock Universally composable symbolic analysis of mutual authentication and
+  key-exchange protocols\allowbreak[C]//\allowbreak{}Theory of Cryptography
+  Conference.
+\newblock Springer: 380-403.
+
+\bibitem[Chase\ et~al.(2014)Chase, Meiklejohn, and
+  Zaverucha]{chase2014algebraic}
+CHASE M, MEIKLEJOHN S, ZAVERUCHA G. 2014.
+\newblock Algebraic macs and keyed-verification anonymous
+  credentials\allowbreak[C]//\allowbreak{}Proceedings of the 2014 ACM SIGSAC
+  Conference on Computer and Communications Security.
+\newblock ACM: 1205-1216.
+
+\bibitem[Chaum(1985)]{chaum1985security}
+CHAUM D. 1985.
+\newblock Security without identification: Transaction systems to make big
+  brother obsolete\allowbreak[J].
+\newblock Communications of the ACM, 28\penalty0 (10): 1030-1044.
+
+\bibitem[Chaum\ et~al.(1988)Chaum, Fiat, and Naor]{chaum1988untraceable}
+CHAUM D, FIAT A, NAOR M. 1988.
+\newblock Untraceable electronic cash\allowbreak[C]//\allowbreak{}Conference on
+  the Theory and Application of Cryptography.
+\newblock Springer: 319-327.
+
+\bibitem[Chen\ et~al.(2013)Chen and Li]{chen2013flexible}
+CHEN L, LI J. 2013.
+\newblock Flexible and scalable digital signatures in tpm
+  2.0\allowbreak[C]//\allowbreak{}Proceedings of the 2013 ACM SIGSAC conference
+  on Computer \& communications security.
+\newblock ACM: 37-48.
+
+\bibitem[Chen\ et~al.(2009{\natexlab{a}})Chen and Ryan]{chen2009attack}
+CHEN L, RYAN M. 2009{\natexlab{a}}.
+\newblock Attack, solution and verification for shared authorisation data in
+  tcg tpm\allowbreak[C]//\allowbreak{}International Workshop on Formal Aspects
+  in Security and Trust.
+\newblock Springer: 201-216.
+
+\bibitem[Chen\ et~al.(2009{\natexlab{b}})Chen and Ryan]{chen2009offline}
+CHEN L, RYAN M. 2009{\natexlab{b}}.
+\newblock Offline dictionary attack on tcg tpm weak authorisation data, and
+  solution\allowbreak[M]//\allowbreak{}Future of Trust in Computing.
+\newblock Springer: 193-196.
+
+\bibitem[Chen\ et~al.(2009{\natexlab{c}})Chen, Morrissey, and
+  Smart]{chen2009daa}
+CHEN L, MORRISSEY P, SMART N~P. 2009{\natexlab{c}}.
+\newblock Daa: Fixing the pairing based protocols.\allowbreak[J].
+\newblock IACR Cryptology ePrint Archive, 2009: 198.
+
+\bibitem[Chen\ et~al.(2010)Chen, Page, and Smart]{chen2010design}
+CHEN L, PAGE D, SMART N~P. 2010.
+\newblock On the design and implementation of an efficient daa
+  scheme\allowbreak[C]//\allowbreak{}International Conference on Smart Card
+  Research and Advanced Applications.
+\newblock Springer: 223-237.
+
+\bibitem[Cheval\ et~al.(2013)Cheval and Blanchet]{cheval2013proving}
+CHEVAL V, BLANCHET B. 2013.
+\newblock Proving more observational equivalences with
+  proverif\allowbreak[C]//\allowbreak{}International Conference on Principles
+  of Security and Trust.
+\newblock Springer: 226-246.
+
+\bibitem[Chothia\ et~al.(2015)Chothia, Smyth, and
+  Staite]{chothia2015automatically}
+CHOTHIA T, SMYTH B, STAITE C. 2015.
+\newblock Automatically checking commitment protocols in proverif without false
+  attacks\allowbreak[C]//\allowbreak{}International Conference on Principles of
+  Security and Trust.
+\newblock Springer: 137-155.
+
+\bibitem[Chu\ et~al.(2015)Chu and Feng]{ChuF15}
+CHU X, FENG D. 2015.
+\newblock On the provable security of {TPM2.0} cryptography apis\allowbreak[J].
+\newblock {IJES}, 7\penalty0 (3/4): 230-243.
+
+\bibitem[Clarkson\ et~al.(2008)Clarkson, Chong, and Myers]{clarkson2008civitas}
+CLARKSON M~R, CHONG S, MYERS A~C. 2008.
+\newblock Civitas: Toward a secure voting
+  system\allowbreak[C]//\allowbreak{}Security and Privacy, 2008. SP 2008. IEEE
+  Symposium on.
+\newblock IEEE: 354-368.
+
+\bibitem[Cortier\ et~al.(2005)Cortier and
+  Warinschi]{cortier2005computationally}
+CORTIER V, WARINSCHI B. 2005.
+\newblock Computationally sound, automated proofs for security
+  protocols\allowbreak[C]//\allowbreak{}European Symposium on Programming.
+\newblock Springer: 157-171.
+
+\bibitem[Cortier\ et~al.(2009)Cortier and Steel]{Cortier2009A}
+CORTIER V, STEEL G. 2009.
+\newblock A generic security api for symmetric key management on cryptographic
+  devices\allowbreak[C]//\allowbreak{}European Symposium on Research in
+  Computer Security.
+\newblock 605-620.
+
+\bibitem[Cortier\ et~al.(2014)Cortier and Steel]{Cortier2014A}
+CORTIER V, STEEL G. 2014.
+\newblock A generic security api for symmetric key management on cryptographic
+  devices\allowbreak[J].
+\newblock Information \& Computation, 238\penalty0 (C): 208-232.
+
+\bibitem[Datta\ et~al.(2009)Datta, Franklin, Garg, and Kaynar]{datta2009logic}
+DATTA A, FRANKLIN J, GARG D, et~al. 2009.
+\newblock A logic of secure systems and its application to trusted
+  computing\allowbreak[C]//\allowbreak{}Security and Privacy, 2009 30th IEEE
+  Symposium on.
+\newblock IEEE: 221-236.
+
+\bibitem[Daubignard\ et~al.(2014)Daubignard, Lubicz, and
+  Steel]{Daubignard2014A}
+DAUBIGNARD M, LUBICZ D, STEEL G. 2014.
+\newblock A secure key management interface with asymmetric
+  cryptography\allowbreak[C]//\allowbreak{}International Conference on
+  Principles of Security and Trust.
+\newblock 63-82.
+
+\bibitem[Delaune\ et~al.(2010)Delaune, Kremer, Ryan, and
+  Steel]{delaune2010formal}
+DELAUNE S, KREMER S, RYAN M~D, et~al. 2010.
+\newblock A formal analysis of authentication in the
+  tpm\allowbreak[C]//\allowbreak{}International Workshop on Formal Aspects in
+  Security and Trust.
+\newblock Springer: 111-125.
+
+\bibitem[Delaune\ et~al.(2011)Delaune, Kremer, Ryan, and
+  Steel]{delaune2011formal}
+DELAUNE S, KREMER S, RYAN M~D, et~al. 2011.
+\newblock Formal analysis of protocols based on tpm state
+  registers\allowbreak[C]//\allowbreak{}24th IEEE Computer Security Foundations
+  Symposium (CSF 2011).
+\newblock IEEE: 66-80.
+
+\bibitem[Dolev\ et~al.(1981)Dolev and Yao]{dolev1981security}
+DOLEV D, YAO A. 1981.
+\newblock On the security of public key
+  protocols\allowbreak[C]//\allowbreak{}Foundations of Computer Science, 1981.
+  SFCS'81. 22nd Annual Symposium on.
+\newblock IEEE: 350-357.
+
+\bibitem[Dolev\ et~al.(1983)Dolev, Even, and Karp]{dolev1983security}
+DOLEV D, EVEN S, KARP R~M. 1983.
+\newblock On the security of ping-pong
+  protocols\allowbreak[C]//\allowbreak{}Advances in Cryptology.
+\newblock Springer: 177-186.
+
+\bibitem[Dutertre\ et~al.(1997)Dutertre and Schneider]{dutertre1997using}
+DUTERTRE B, SCHNEIDER S. 1997.
+\newblock Using a pvs embedding of csp to verify authentication
+  protocols\allowbreak[C]//\allowbreak{}International Conference on Theorem
+  Proving in Higher Order Logics.
+\newblock Springer: 121-136.
+
+\bibitem[F{\'a}brega\ et~al.(1998)F{\'a}brega, Herzog, and
+  Guttman]{fabrega1998strand}
+F{\'A}BREGA F~J~T, HERZOG J~C, GUTTMAN J~D. 1998.
+\newblock Strand spaces: Why is a security protocol
+  correct?\allowbreak[C]//\allowbreak{}Security and Privacy, 1998. Proceedings.
+  1998 IEEE Symposium on.
+\newblock IEEE: 160-171.
+
+\bibitem[Gordon\ et~al.(2003)Gordon and Jeffrey]{gordon2003authenticity}
+GORDON A~D, JEFFREY A. 2003.
+\newblock Authenticity by typing for security protocols 1\allowbreak[J].
+\newblock Journal of computer security, 11\penalty0 (4): 451-519.
+
+\bibitem[G{\"u}rgens\ et~al.(2007)G{\"u}rgens, Rudolph, Scheuermann, Atts, and
+  Plaga]{gurgens2007security}
+G{\"U}RGENS S, RUDOLPH C, SCHEUERMANN D, et~al. 2007.
+\newblock Security evaluation of scenarios based on the tcg’s tpm
+  specification\allowbreak[C]//\allowbreak{}European Symposium on Research in
+  Computer Security.
+\newblock Springer: 438-453.
+
+\bibitem[Halevi(2005)]{halevi2005plausible}
+HALEVI S. 2005.
+\newblock A plausible approach to computer-aided cryptographic
+  proofs.\allowbreak[J].
+\newblock IACR Cryptology ePrint Archive, 2005: 181.
+
+\bibitem[Henry\ et~al.(2013)Henry and Goldberg]{henry2013thinking}
+HENRY R, GOLDBERG I. 2013.
+\newblock Thinking inside the blac box: smarter protocols for faster anonymous
+  blacklisting\allowbreak[C]//\allowbreak{}Proceedings of the 12th ACM workshop
+  on Workshop on privacy in the electronic society.
+\newblock ACM: 71-82.
+
+\bibitem[{ISO/IEC 11889}(2009)]{ISO1}
+{ISO/IEC 11889}. 2009.
+\newblock Pas dis 11889: Information technology - security techniques - trusted
+  platform module\allowbreak[EB/OL].
+\newblock ISO/IEC.
+\newblock \url{http://www.iso.org/iso/catalogue_detail.htm?csnumber=50970}.
+
+\bibitem[{ISO/IEC 11889}(2015)]{ISO2}
+{ISO/IEC 11889}. 2015.
+\newblock Pas dis 11889: Information technology - security techniques - trusted
+  platform module\allowbreak[EB/OL].
+\newblock ISO/IEC.
+\newblock \url{https://www.iso.org/standard/66510.html}.
+
+\bibitem[Janvier\ et~al.(2005)Janvier, Lakhnech, and
+  Mazar{\'e}]{janvier2005completing}
+JANVIER R, LAKHNECH Y, MAZAR{\'E} L. 2005.
+\newblock Completing the picture: Soundness of formal encryption in the
+  presence of active adversaries\allowbreak[C]//\allowbreak{}European Symposium
+  on Programming.
+\newblock Springer: 172-185.
+
+\bibitem[Kemmerer\ et~al.(1994)Kemmerer, Meadows, and
+  Millen]{kemmerer1994three}
+KEMMERER R, MEADOWS C, MILLEN J. 1994.
+\newblock Three systems for cryptographic protocol analysis\allowbreak[J].
+\newblock Journal of CRYPTOLOGY, 7\penalty0 (2): 79-130.
+
+\bibitem[Kremer\ et~al.(2016)Kremer and K{\"u}nnemann]{kremer2016automated}
+KREMER S, K{\"U}NNEMANN R. 2016.
+\newblock Automated analysis of security protocols with global
+  state\allowbreak[J].
+\newblock Journal of Computer Security, 24\penalty0 (5): 583-616.
+
+\bibitem[Lamport(1986)]{lamport1986document}
+LAMPORT L. 1986.
+\newblock Document preparation system\allowbreak[M].
+\newblock Addison-Wesley Reading, MA.
+
+\bibitem[Lin(2005)]{lin2005automated}
+LIN A~H. 2005.
+\newblock Automated analysis of security apis\allowbreak[D].
+\newblock Massachusetts Institute of Technology.
+
+\bibitem[Lofgren\ et~al.(2011)Lofgren and Hopper]{lofgren2011faust}
+LOFGREN P, HOPPER N. 2011.
+\newblock Faust: Efficient, ttp-free abuse prevention by anonymous
+  whitelisting\allowbreak[C]//\allowbreak{}Proceedings of the 10th annual ACM
+  workshop on Privacy in the electronic society.
+\newblock ACM: 125-130.
+
+\bibitem[McCarthy\ et~al.(2014)McCarthy, Smyth, and Quaglia]{mccarthy2014hawk}
+MCCARTHY A, SMYTH B, QUAGLIA E~A. 2014.
+\newblock Hawk and aucitas: e-auction schemes from the helios and civitas
+  e-voting schemes\allowbreak[C]//\allowbreak{}International Conference on
+  Financial Cryptography and Data Security.
+\newblock Springer: 51-63.
+
+\bibitem[Meadows(1994)]{meadows1994model}
+MEADOWS C. 1994.
+\newblock A model of computation for the nrl protocol
+  analyzer\allowbreak[C]//\allowbreak{}Computer Security Foundations Workshop
+  VII, 1994. CSFW 7. Proceedings.
+\newblock IEEE: 84-89.
+
+\bibitem[Microsoft(2017)]{Win10}
+MICROSOFT. 2017.
+\newblock {Trusted Platform Module Technology Overview}\allowbreak[EB/OL].
+\newblock
+  \url{https://technet.microsoft.com/en-us/itpro/windows/keep-secure/trusted-platform-module-overview}.
+
+\bibitem[Millen\ et~al.(1987)Millen, Clark, and
+  Freedman]{millen1987interrogator}
+MILLEN J~K, CLARK S~C, FREEDMAN S~B. 1987.
+\newblock The interrogator: Protocol secuity analysis\allowbreak[J].
+\newblock IEEE Transactions on software Engineering\penalty0 (2): 274-288.
+
+\bibitem[Milner(1999)]{milner1999communicating}
+MILNER R. 1999.
+\newblock Communicating and mobile systems: the pi calculus\allowbreak[M].
+\newblock Cambridge university press.
+
+\bibitem[Nakamoto(2008)]{nakamoto2008bitcoin}
+NAKAMOTO S. 2008.
+\newblock Bitcoin: A peer-to-peer electronic cash system\allowbreak[Z].
+\newblock Working Paper.
+
+\bibitem[Needham\ et~al.(1978)Needham and Schroeder]{needham1978using}
+NEEDHAM R~M, SCHROEDER M~D. 1978.
+\newblock Using encryption for authentication in large networks of
+  computers\allowbreak[J].
+\newblock Communications of the ACM, 21\penalty0 (12): 993-999.
+
+\bibitem[Owre\ et~al.(1992)Owre, Rushby, and Shankar]{owre1992pvs}
+OWRE S, RUSHBY J~M, SHANKAR N. 1992.
+\newblock Pvs: A prototype verification
+  system\allowbreak[C]//\allowbreak{}International Conference on Automated
+  Deduction.
+\newblock Springer: 748-752.
+
+\bibitem[Paiola\ et~al.(2012)Paiola and Blanchet]{paiola2012verification}
+PAIOLA M, BLANCHET B. 2012.
+\newblock Verification of security protocols with lists: from length one to
+  unbounded length\allowbreak[C]//\allowbreak{}International Conference on
+  Principles of Security and Trust.
+\newblock Springer: 69-88.
+
+\bibitem[Paquin\ et~al.(2011)Paquin and Zaverucha]{paquin2011u}
+PAQUIN C, ZAVERUCHA G. 2011.
+\newblock U-prove cryptographic specification v1. 1\allowbreak[J].
+\newblock Technical Report, Microsoft Corporation.
+
+\bibitem[Paulson(1998)]{paulson1998inductive}
+PAULSON L~C. 1998.
+\newblock The inductive approach to verifying cryptographic
+  protocols\allowbreak[J].
+\newblock Journal of computer security, 6\penalty0 (1-2): 85-128.
+
+\bibitem[Schmidt\ et~al.(2014)Schmidt, Sasse, Cremers, and
+  Basin]{schmidt2014automated}
+SCHMIDT B, SASSE R, CREMERS C, et~al. 2014.
+\newblock Automated verification of group key agreement
+  protocols\allowbreak[C]//\allowbreak{}2014 IEEE Symposium on Security and
+  Privacy (SP).
+\newblock IEEE: 179-194.
+
+\bibitem[Shao\ et~al.(2013)Shao, Feng, and Qin]{shao2013type}
+SHAO J, FENG D, QIN Y. 2013.
+\newblock Type-based analysis of protected storage in the
+  tpm\allowbreak[C]//\allowbreak{}International Conference on Information and
+  Communications Security.
+\newblock Springer: 135-150.
+
+\bibitem[Shao\ et~al.(2016)Shao, Qin, and Feng]{shao2016computational}
+SHAO J, QIN Y, FENG D. 2016.
+\newblock Computational soundness results for stateful applied pi
+  calculus\allowbreak[C]//\allowbreak{}International Conference on Principles
+  of Security and Trust.
+\newblock Springer: 254-275.
+
+\bibitem[Shao\ et~al.(2018)Shao, Qin, and Feng]{Shao2018Formal}
+SHAO J, QIN Y, FENG D. 2018.
+\newblock Formal analysis of hmac authorisation in the tpm2.0
+  specification\allowbreak[J].
+\newblock Iet Information Security, 12\penalty0 (2): 133-140.
+
+\bibitem[Smyth\ et~al.(2011)Smyth, Ryan, and Chen]{smyth2011formal}
+SMYTH B, RYAN M, CHEN L. 2011.
+\newblock Formal analysis of anonymity in ecc-based direct anonymous
+  attestation schemes\allowbreak[C]//\allowbreak{}International Workshop on
+  Formal Aspects in Security and Trust.
+\newblock Springer: 245-262.
+
+\bibitem[Smyth\ et~al.(2015)Smyth, Ryan, and Chen]{Smyth2015Formal}
+SMYTH B, RYAN M~D, CHEN L. 2015.
+\newblock Formal analysis of privacy in direct anonymous attestation schemes
+  ☆\allowbreak[J].
+\newblock Science of Computer Programming, 111: 300-317.
+
+\bibitem[Song\ et~al.(2001)Song, Berezin, and Perrig]{song2001athena}
+SONG D~X, BEREZIN S, PERRIG A. 2001.
+\newblock Athena: a novel approach to efficient automatic security protocol
+  analysis 1\allowbreak[J].
+\newblock Journal of Computer Security, 9\penalty0 (1-2): 47-74.
+
+\bibitem[Stamerjohanns\ et~al.(2009)Stamerjohanns, Ginev, David, Misev,
+  Zamdzhiev, and Kohlhase]{stamerjohanns2009mathml}
+STAMERJOHANNS H, GINEV D, DAVID C, et~al. 2009.
+\newblock {MathML}-aware article conversion from {LaTeX}\allowbreak[J].
+\newblock Towards a Digital Mathematics Library, 16\penalty0 (2): 109-120.
+
+\bibitem[TCG(2003)]{TPM1}
+TCG. 2003.
+\newblock {Trusted Platform Module Library Specification, Family ``1.2",
+  Revision 116}\allowbreak[EB/OL].
+\newblock TCG.
+\newblock \url{http://www.trustedcomputinggroup.org/tpm-main-specification}.
+
+\bibitem[TCG(2014)]{TPM2}
+TCG. 2014.
+\newblock {Trusted Platform Module Library Specification, Family ``2.0", Level
+  00, Revision 01.38}\allowbreak[EB/OL].
+\newblock TCG.
+\newblock \url{http://www.trustedcomputinggroup.org/tpm-library-specification}.
+
+\bibitem[Tsang\ et~al.(2007)Tsang, Au, Kapadia, and
+  Smith]{tsang2007blacklistable}
+TSANG P~P, AU M~H, KAPADIA A, et~al. 2007.
+\newblock Blacklistable anonymous credentials: blocking misbehaving users
+  without ttps\allowbreak[C]//\allowbreak{}Proceedings of the 14th ACM
+  conference on Computer and communications security.
+\newblock ACM: 72-81.
+
+\bibitem[Tsang\ et~al.(2008)Tsang, Au, Kapadia, and Smith]{tsang2008perea}
+TSANG P~P, AU M~H, KAPADIA A, et~al. 2008.
+\newblock Perea: Towards practical ttp-free revocation in anonymous
+  authentication\allowbreak[C]//\allowbreak{}Proceedings of the 15th ACM
+  conference on Computer and communications security.
+\newblock ACM: 333-344.
+
+\bibitem[Walls\ et~al.(2013)Walls, Barichivich, and Brown]{walls2013drought}
+WALLS S~C, BARICHIVICH W~J, BROWN M~E. 2013.
+\newblock Drought, deluge and declines: the impact of precipitation extremes on
+  amphibians in a changing climate\allowbreak[J/OL].
+\newblock Biology, 2\penalty0 (1): 399-418\allowbreak[2013-11-04].
+\newblock \url{http://www.mdpi.com/2079-7737/2/1/399}.
+\newblock DOI: \doi{10.3390/biology2010399}.
+
+\bibitem[Wang\ et~al.(2014)Wang, Feng, Qin, Shao, Xi, and Chu]{wang2014exblacr}
+WANG W, FENG D, QIN Y, et~al. 2014.
+\newblock Exblacr: extending blacr
+  system\allowbreak[C]//\allowbreak{}Australasian Conference on Information
+  Security and Privacy.
+\newblock Springer: 397-412.
+
+\bibitem[Wikibook(2014)]{wikibook2014latex}
+WIKIBOOK. 2014.
+\newblock http://en.wikibooks.org/wiki/latex\allowbreak[M].
+\newblock On-line Resources.
+
+\bibitem[Xi\ et~al.(2014{\natexlab{a}})Xi and Feng]{xi2014farb}
+XI L, FENG D. 2014{\natexlab{a}}.
+\newblock Farb: fast anonymous reputation-based blacklisting without
+  ttps\allowbreak[C]//\allowbreak{}Proceedings of the 13th Workshop on Privacy
+  in the Electronic Society.
+\newblock ACM: 139-148.
+
+\bibitem[Xi\ et~al.(2014{\natexlab{b}})Xi and Feng]{xi2014formal}
+XI L, FENG D. 2014{\natexlab{b}}.
+\newblock Formal analysis of daa-related apis in tpm
+  2.0\allowbreak[C]//\allowbreak{}International Conference on Network and
+  System Security.
+\newblock Springer: 421-434.
+
+\bibitem[Xi\ et~al.(2014{\natexlab{c}})Xi, Shao, Yang, and Feng]{xi2014arbra}
+XI L, SHAO J, YANG K, et~al. 2014{\natexlab{c}}.
+\newblock Arbra: anonymous reputation-based revocation with efficient
+  authentication\allowbreak[C]//\allowbreak{}International Conference on
+  Information Security.
+\newblock Springer: 33-53.
+
+\bibitem[Xiaofeng\ et~al.(2008)Xiaofeng and Dengguo]{xiaofeng2008direct}
+XIAOFENG C, DENGGUO F. 2008.
+\newblock Direct anonymous attestation for next generation tpm\allowbreak[J].
+\newblock Journal of Computers, 3\penalty0 (12): 43-50.
+
+\bibitem[Yang\ et~al.(2018)Yang, Au, Xu, and Yu]{YangDecentralized}
+YANG R, AU M~H, XU Q, et~al. 2018.
+\newblock Decentralized blacklistable anonymous credentials with
+  reputation\allowbreak[C]//\allowbreak{}Australasian Conference on Information
+  Security and Privacy.
+\newblock Springer International Publishing: 720-738.
+
+\bibitem[Yu\ et~al.(2012)Yu, Yuen, Chow, Yiu, and Hui]{yu2012pe}
+YU K~Y, YUEN T~H, CHOW S~S, et~al. 2012.
+\newblock Pe (ar) 2: Privacy-enhanced anonymous authentication with reputation
+  and revocation\allowbreak[C]//\allowbreak{}European Symposium on Research in
+  Computer Security.
+\newblock Springer: 679-696.
+
+\bibitem[Zhang\ et~al.(2014)Zhang, Zhao, Qin, and Feng]{zhang2014formal}
+ZHANG Q, ZHAO S, QIN Y, et~al. 2014.
+\newblock Formal analysis of tpm2. 0 key management apis\allowbreak[J].
+\newblock Chinese science bulletin, 59\penalty0 (32): 4210-4224.
+
+\bibitem[Zhao\ et~al.(2015)Zhao, Xi, Zhang, Qin, and Feng]{zhao2015security}
+ZHAO S, XI L, ZHANG Q, et~al. 2015.
+\newblock Security analysis of sm2 key exchange protocol in tpm2.
+  0\allowbreak[J].
+\newblock Security and Communication Networks, 8\penalty0 (3): 383-395.
+
+\bibitem[ДубровинА.~И(1906)]{Dubrovin1906}
+ДубровинА.~И. 1906.
+\newblock Открытое письмо Председателя
+  Главного Совета Союза Русского Народа
+  Санкт-Петербургскому Антонию,
+  Первенствующему члену Священного
+  Синода\allowbreak[J].
+\newblock Вече: 1-3.
+
+\end{thebibliography}
